@@ -46,10 +46,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+I have used youtube and asked my friend to understand the basic components of web development.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+When I started the prework, I am extremely confused about the basic component of building websites. I have no idea what is HTML, CSS, and javascript, therefore I had to go to youtube to understand their differences. I went to a friend that has learned front-end development before to seek help because I have no idea what I was doing initially with the instructions given. Through my friend's and youtube's explanations, I understand their differences. HTML is a file that contains the text, the overall format of the website, and how functions apply. For example, we included how the text and buttons to the site, which is the layout of the site. Moreover, we applied to sound to the light-up button. This is the format component of HTML. The js file includes all the functions we apply to the HTML file. Lastly, the CSS file that customs the HTML text and bottoms such as the text size, bottom color, and light up the color. I had a hard time understanding all these components because I never had experience with websites, so asking my friend for help and looking over youtube videos clears out my confusion easily because I found out that writing the functions in js was similar to java but just with a different language. Things went smoothly after because I understand how to bring everything back to the HTML file.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
