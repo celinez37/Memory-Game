@@ -61,7 +61,7 @@ If I have more time on this project I would include clearer instructions because
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://ucsd.zoom.us/rec/play/rNPwquXWsuoAn1Ifx2txJUIw0AEZQ0eMtP5aqbqWkJRXLRzX3CxANrCwlD03571EjEb4bR--oR3WOZK7.TxqUI9H5apmS1zow?startTime=1648875527000&_x_zm_rtaid=q74yalSbSuyznu-t5-ujyg.1648876757358.9871273fa14b4f832b4c809adb2d9e9e&_x_zm_rhtaid=815
 
 
 ## License
